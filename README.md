@@ -1,1 +1,1 @@
-# timeline.github.io
+# VerticalTimeline
